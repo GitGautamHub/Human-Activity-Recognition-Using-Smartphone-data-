@@ -2,7 +2,7 @@
 
 Welcome to the Human Activity Recognition Using Smartphone Data project! This repository contains code and resources to classify different physical activities based on data collected from smartphone sensors.
 
-
+<img src="https://drive.google.com/uc?export=view&id=1cph9CKKz1F3yfocaYz0KOFBJkUMzEVY_" alt="Human Activity Recognition Diagram">
 
 ## Overview
 The goal of this project is to train a machine learning model that accurately classifies activities performed by volunteers wearing a smartphone (Samsung Galaxy S II) on the waist. The dataset includes 3-axial linear acceleration and 3-axial angular velocity captured at 50Hz. Activities include WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING. Data has been randomly partitioned into 70% for training and 30% for testing.
